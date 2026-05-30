@@ -1,6 +1,6 @@
 # Modal 部署指南,会封号，勿用
 
-ping1992120@gmail.com
+ping120
 
 1. 注册网站：[https://modal.com](https://modal.com)
 
